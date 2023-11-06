@@ -1,6 +1,8 @@
-# Project Name
+# K8s Monitoring Stack with Helm
 
-Project Description
+This project sets up a comprehensive monitoring stack in a Kubernetes cluster using Helm charts. It includes the installation and configuration of Redis, Prometheus, and Grafana for efficient monitoring, metrics collection, and visualization.
+
+The project showcases the power of Helm for orchestrating Kubernetes deployments and managing complex applications. With separate Helm charts for each component, you can easily customize and deploy the monitoring stack tailored to your specific requirements. Redis serves as the data store, Prometheus collects and stores metrics, and Grafana provides a user-friendly interface for visualization and alerting.
 
 ## Table of Contents
 - [Installation](#installation)
